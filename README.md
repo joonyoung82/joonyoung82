@@ -10,9 +10,9 @@
 
 | Project | Description |
 |---------|-------------|
+| [Portfolio](https://joonyoung82.github.io/) | Personal portfolio showcasing my projects, experience, and technical writing. |
 | [test-plan-generator](https://github.com/joonyoung82/test-plan-generator) | AI-powered tool that transforms project descriptions into structured test plans (TestRail-compatible CSV). Supports Gemini, ChatGPT, and Claude. |
 | [test-data-generator](https://github.com/joonyoung82/test-data-generator) | Generate realistic test data and edge cases (SQL injection, XSS, unicode, boundary values) for QA testing. No API key required. |
-| [AI-golf-coach](https://github.com/joonyoung82/AI-golf-coach) | iOS golf swing analysis app using Vision framework + DTW + Claude API for personalized coaching feedback. |
 | [duck-hunt-gesture](https://github.com/joonyoung82/duck-hunt-gesture) | Duck Hunt game controlled by hand gestures — built with JavaScript and computer vision. |
 
 ---
