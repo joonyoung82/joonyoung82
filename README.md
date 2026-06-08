@@ -6,6 +6,15 @@
 
 ---
 
+### 📊 By the Numbers
+
+- **1B+** users served across Apple News, Stocks, and Weather
+- **156%** above org average in bug detection (5 consecutive years)
+- **70%** test time reduction via automated test systems
+- **30M+** new users contributed to through major feature launches
+
+---
+
 ### 🔧 What I'm Building
 
 | Project | Description |
@@ -24,14 +33,6 @@
 **AI/ML:** Claude API · Gemini · OpenAI · Vision Framework  
 **Platforms:** iOS · iPadOS · macOS · watchOS · visionOS · Android  
 
----
-
-### 📊 By the Numbers
-
-- **1B+** users served across Apple News, Stocks, and Weather
-- **156%** above org average in bug detection (5 consecutive years)
-- **70%** test time reduction via automated test systems
-- **30M+** new users contributed to through major feature launches
 
 ---
 
